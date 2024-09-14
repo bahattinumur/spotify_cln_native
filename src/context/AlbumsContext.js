@@ -22,8 +22,7 @@ const AlbumsProvider = ({children}) => {
       },
       headers: {
         
-        'x-rapidapi-key': '844fbccd74msh21e61fac147e67cp1a06e7jsn7c9b22fd35c5',
-        // 17bfa31bbbmsh1355592a7405f9bp1dd229jsnd7e87c1e1260
+        'x-rapidapi-key': 'Enter Here Your API Key!!',
         'x-rapidapi-host': 'spotify23.p.rapidapi.com',
       },
     };

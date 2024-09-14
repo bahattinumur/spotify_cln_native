@@ -18,7 +18,7 @@ const ProfileProvider = ({children}) => {
         artistLimit: '10',
       },
       headers: {
-        'x-rapidapi-key': '17bfa31bbbmsh1355592a7405f9bp1dd229jsnd7e87c1e1260',
+        'x-rapidapi-key': 'Enter Here Your API Key!!',
         'x-rapidapi-host': 'spotify23.p.rapidapi.com',
       },
     };
